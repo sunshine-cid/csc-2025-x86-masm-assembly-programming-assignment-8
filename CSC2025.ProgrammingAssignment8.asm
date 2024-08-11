@@ -1,6 +1,6 @@
 ; Student
 ; Professor
-; Class: CSC 2025 X42
+; Class: CSC 2025 XXX
 ; Week 8 - Programming Homework #8
 ; Date
 ; Interactive program reads a string, removes anything but letters, and then outputs the string along with a letter count. There's an option to repeat the process.
